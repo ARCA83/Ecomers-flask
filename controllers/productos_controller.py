@@ -1,5 +1,5 @@
 from models.productos_model import ProductosModel
-from models.categorias_productos_model import CategoriasProductosModel
+from models.categorias_productos_models import CategoriasProductosModel
 from pprint import pprint
 from app import db
 
